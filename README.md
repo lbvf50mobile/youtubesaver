@@ -9,7 +9,7 @@ It's a **docs** + **scripts** project, that contains **step-by-step** tutorial a
 
 ## Docs
 
-- [Using win32 ytdl](win23ytdl.md)
+- [Using win32 ytdl](win32ytdl.md)
 
 ## Plan
 - Create aws account
