@@ -1,4 +1,4 @@
-## Use [win32ytdl](https://github.com/ytdl-org/youtube-dl).
+## Using [win32 ytdl](https://github.com/ytdl-org/youtube-dl).
 
 This file describes how to use (ytdl)[https://github.com/ytdl-org/youtube-dl] in Windows to download simple youtube video.
 

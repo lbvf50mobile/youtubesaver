@@ -7,6 +7,10 @@ It's a **docs** + **scripts** project, that contains **step-by-step** tutorial a
 - Create set of docs describing process of registrating on configugation [Amazon Instances](https://aws.amazon.com/en/ec2/?ft=n). 
 - Create set of tools for downloading/saving/playing onling videos form [Youtube](youtube.com).
 
+## Docs
+
+- [Using win32 ytdl](win23ytdl.md)
+
 ## Plan
 - Create aws account
 - Install `Gnu/Linux` on virtual server
