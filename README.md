@@ -20,3 +20,11 @@ It's a **docs** + **scripts** project, that contains **step-by-step** tutorial a
 ## Tools
 
 - https://github.com/ytdl-org/youtube-dl
+- For working with [vk](vk.com)
+    - https://stackoverflow.com/questions/32965719/how-to-upload-video-via-the-vk-api
+    - https://vk.com/dev/video.save
+-  For working with Yandex Disk
+    - https://github.com/abbat/ydcmd
+    - https://yandex.ru/support/disk/cli-clients.html
+    - https://yandex.ru/support/disk/webdav/webdav-linux.html
+    
