@@ -1,6 +1,6 @@
 ## Using [win32 ytdl](https://github.com/ytdl-org/youtube-dl).
 
-This file describes how to use (ytdl)[https://github.com/ytdl-org/youtube-dl] in Windows to download simple youtube video.
+This file describes how to use [ytdl](https://github.com/ytdl-org/youtube-dl) in Windows to download simple youtube video.
 
 ### Configuration
 
@@ -22,3 +22,4 @@ Deleting original file Haddaway - What Is Love-XPmBnnon0Ek.f137.mp4 (pass -k to 
 Deleting original file Haddaway - What Is Love-XPmBnnon0Ek.f171.webm (pass -k to keep)
 ```
 
+[back](README.md)
