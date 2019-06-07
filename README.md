@@ -20,6 +20,7 @@ It's a **docs** + **scripts** project, that contains **step-by-step** tutorial a
 ## Tools
 
 - https://github.com/ytdl-org/youtube-dl
+    - links for translate README.md (https://stackoverflow.com/questions/47457811/add-multiple-readme-on-github-repo, https://github.com/github/markup/issues/899, https://github.com/pgaref/HTTP_Request_Randomizer/issues/14)
 - For working with [vk](vk.com)
     - https://stackoverflow.com/questions/32965719/how-to-upload-video-via-the-vk-api
     - https://vk.com/dev/video.save
@@ -27,4 +28,4 @@ It's a **docs** + **scripts** project, that contains **step-by-step** tutorial a
     - https://github.com/abbat/ydcmd
     - https://yandex.ru/support/disk/cli-clients.html
     - https://yandex.ru/support/disk/webdav/webdav-linux.html
-    
+
