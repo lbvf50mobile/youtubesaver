@@ -10,6 +10,7 @@ It's a **docs** + **scripts** project, that contains **step-by-step** tutorial a
 ## Docs
 
 - [Using win32 ytdl](win32ytdl.md)
+- [Working with yandex disk](saveonyandex.md)
 
 ## Plan
 - Create aws account
