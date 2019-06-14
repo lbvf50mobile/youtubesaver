@@ -21,4 +21,9 @@
 - `https://webdav.yandex.ru:443 /home/$USER/yandexdisk davfs user,rw,noauto 0 0`
 - **NEED TO RELOGING TO GET INTO THE GROUP!** thanks for Node
 
+### Now just using disk.
+
+- `mount yandexdisk`
+- `umount yandexdisk`
+
 [back](README.md)
