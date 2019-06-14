@@ -29,3 +29,6 @@ It's a **docs** + **scripts** project, that contains **step-by-step** tutorial a
     - https://yandex.ru/support/disk/cli-clients.html
     - https://yandex.ru/support/disk/webdav/webdav-linux.html
 
+## Ifno
+- https://www.youtube.com/playlist?list=PLpXHf5lOtZEkb4y-shvwGoLE7TylmLagL
+
