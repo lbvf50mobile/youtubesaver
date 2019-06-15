@@ -26,4 +26,16 @@
 - `mount yandexdisk`
 - `umount yandexdisk`
 
+### Simple script for downloading and uploading.
+
+- set variables `xport start=1; export end=2`
+- **do.sh**
+```bash
+echo $start
+echo $end
+youtube-dl --playlist-start $start --playlist-end $end https://www.youtube.com/playlist?list=PLpXHf5lOtZEkb4y-shvwGoLE7TylmLagL
+cp *.mp4 ~/yandexdisk/educational_movies
+rm *.mp4
+```
+
 [back](README.md)
